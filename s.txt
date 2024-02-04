@@ -1,0 +1,7 @@
+5
+Adam Bob
+Adam Tom
+Bob Amir
+Bob Kim
+Kim Adam
+Adam Amir
